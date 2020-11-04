@@ -30,14 +30,11 @@ Here are some ideas to get you started:
 ---
 Full-Stack | Programador :robot:.
 
-Estudante de Ciência da Computação na UFABC e trabalhando como Engenheira de Software na Rocketseat. :woman_technologist:
-Tenho um blog onde posto conteúdo sobre tecnologia sobre os conceitos que estudo: https://blog-bprofiro.vercel.app/.
-
 ### Sobre mim
 ---
 - 💻 Trabalhando com React, NodeJS e Flutter
 - 📚 Estudando a Node, React e React Native
-- 💜 Sempre tentando ajudar outros devs da melhor forma possível
+- 💜 Sempre tentando ajudar outros da melhor forma possível
 - 🧒 Desenvolvedor em Keepin Automação Residencial
 
 ---
