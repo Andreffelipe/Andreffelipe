@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Twitter: André](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/)
+<!--[![Twitter: André](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/)-->
 [![Linkedin: Andre Felipe](https://img.shields.io/badge/-andrefelipe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andre-felipe-4a0029115/)](https://www.linkedin.com/in/andre-felipe-4a0029115/)
 ![GitHub followers](https://img.shields.io/github/followers/Andreffelipe?label=Follow&style=social)
 <!-- [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://anmolsingh.me/) -->
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <h2> Hello world, I'm Andre Filipe <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"><h2/>
 
 
-```javascript
+```sh
 const andre = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Typescript", "Python", "Java", "php"],
