@@ -1,4 +1,5 @@
 
+
 <!--
 **Andreffelipe/Andreffelipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,15 +16,10 @@ Here are some ideas to get you started:
 -->
 
 [![Twitter: André](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/)
-
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
-
+[![Linkedin: Andre Felipe](https://img.shields.io/badge/-andrefelipe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andre-felipe-4a0029115/)](https://www.linkedin.com/in/andre-felipe-4a0029115/)
 ![GitHub followers](https://img.shields.io/github/followers/Andreffelipe?label=Follow&style=social)
-
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://anmolsingh.me/)
-
+<!-- [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://anmolsingh.me/) -->
 ![](https://visitor-badge.glitch.me/badge?page_id=Andreffelipe.Andreffelipe)
-
 
 
 <h2> Hello world, I'm Andre Filipe <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"><h2/>
