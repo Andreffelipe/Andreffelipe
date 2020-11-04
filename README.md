@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 ![](https://visitor-badge.glitch.me/badge?page_id=Andreffelipe.Andreffelipe)
 
 
-<img align="right" width="400" height="400" src="./img/programmer.gif">
+<img align="right" width="500" height="400" src="./img/programmer.gif">
 
-<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+<!--<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> -->
 
 ### Hello world, I'm Andre :octocat:
 ---
