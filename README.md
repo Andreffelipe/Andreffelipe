@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 
 **Projetos**
 
-[![Andreffelipe](https://github-readme-stats.vercel.app/api/pin/?username=Andreffelipe&repo=starwars-api&theme=dracula)](https://github.com/Andreffelipe/)
+[![Andreffelipe](https://github-readme-stats.vercel.app/api/pin/?username=Andreffelipe&repo=starwars-api&theme=dracula)](https://github.com/Andreffelipe/starwars-api)
 
 <br/>
 
