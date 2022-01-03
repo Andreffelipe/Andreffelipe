@@ -55,3 +55,4 @@ Here are some ideas to get you started:
 [![Linkedin: Andre Felipe](https://img.shields.io/badge/-andrefelipe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andre-felipe-4a0029115/)](https://www.linkedin.com/in/andre-felipe-4a0029115/)
 ![GitHub followers](https://img.shields.io/github/followers/Andreffelipe?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=Andreffelipe.Andreffelipe)
+<img align="left"  height="200" src="./img/certificado-rocketseat.jpg">
