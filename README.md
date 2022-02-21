@@ -56,4 +56,4 @@ Here are some ideas to get you started:
 ![GitHub followers](https://img.shields.io/github/followers/Andreffelipe?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=Andreffelipe.Andreffelipe)
 
-<img align="left"  height="200" src="./img/certificado-rocketseat.jpg"><img align="left"  height="200" src="./img/certificadoArqSof.png">
+<img align="left"  height="200" src="./img/certificado-rocketseat.jpg"><img align="left"  height="200" src="./img/certificadoArqSof.png"><img align="left"  height="200" src="./img/certificado_ignite.JPG">
