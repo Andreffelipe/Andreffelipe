@@ -1,20 +1,3 @@
-
-
-<!--
-**Andreffelipe/Andreffelipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <img align="right" width="400" height="300" src="./img/programmer.gif">
 
 ### Hello Guy, I'm Andre  <img src="./img/drum.gif" width="50">
@@ -42,9 +25,9 @@ Here are some ideas to get you started:
  
 <br/>
 
-[![Andreffelipe](https://github-readme-stats.vercel.app/api?username=Andreffelipe&theme=dracula)](https://github.com/Andreffelipe/)
+[![Andreffelipe](https://github-readme-stats.vercel.app/api?username=Andreffelipe&theme=dracula&hide=stars,prs,issues,contribs)](https://github.com/Andreffelipe/)
 
-[![Andreffelipe](https://github-readme-stats.vercel.app/api/top-langs/?username=Andreffelipe&hide=html&layout=compact&theme=dracula)](https://github.com/Andreffelipe/)
+[![Andreffelipe](https://github-readme-stats.vercel.app/api/top-langs/?username=Andreffelipe&hide=html&layout=compact&theme=dracula&langs_count=8)](https://github.com/Andreffelipe/)
 
 **Projetos**
 
